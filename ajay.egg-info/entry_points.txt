@@ -1,0 +1,2 @@
+[console_scripts]
+ajay = ajay.__main__:main
